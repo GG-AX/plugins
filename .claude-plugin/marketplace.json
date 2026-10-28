@@ -5,12 +5,12 @@
   "plugins": [
     {
       "name": "deck-kit",
-      "source": { "source": "github", "repo": "GG-AX/deck-kit" },
+      "source": { "source": "url", "url": "https://github.com/GG-AX/deck-kit.git" },
       "description": "HTML 발표 덱 키트"
     },
     {
       "name": "project-notion",
-      "source": { "source": "github", "repo": "GG-AX/project-notion" },
+      "source": { "source": "url", "url": "https://github.com/GG-AX/project-notion.git" },
       "description": "개발 프로젝트 노션 관리 (AX 팀용, 비공개 저장소)"
     }
   ]
