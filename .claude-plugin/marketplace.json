@@ -12,6 +12,11 @@
       "name": "project-notion",
       "source": { "source": "url", "url": "https://github.com/GG-AX/project-notion.git" },
       "description": "개발 프로젝트 노션 관리 (AX 팀용, 비공개 저장소)"
+    },
+    {
+      "name": "costing-kit",
+      "source": { "source": "url", "url": "https://github.com/GG-AX/costing-kit.git" },
+      "description": "코스팅 옵션 보드 키트 (AI 착샷·오리지널/옵션 비교 HTML)"
     }
   ]
 }
